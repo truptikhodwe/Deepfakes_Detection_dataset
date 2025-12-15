@@ -14,7 +14,7 @@ This phase established baseline detection ability and gathered qualitative ethic
 | :--- | :--- |
 | **Media Items** | $\mathbf{10}$ total items: $\mathbf{6}$ Images (created via remaker.ai faceswap) and $\mathbf{4}$ Audios (created via elevenlabs.io voice cloning). |
 | **Detection Questions** | For each item: |
-| | 1. How aware are you of the context? (Likert scale) |
+| | 1. How aware are you of the context? |
 | | 2. Do you think the item is a deepfake? ($\mathbf{Binary}$) |
 | **Ethical Questions (Subjective)** | $\mathbf{5}$ open-ended questions covering ethical perspectives: |
 | | 1. Do you think the use of deepfake technology should be regulated by law? Why or why not? |
@@ -33,7 +33,7 @@ This phase measured the effect of the intervention on detection performance.
 | **Intervention** | Participants first viewed a short video on how to detect deepfakes ([Video Link](https://www.youtube.com/watch?v=tfMmhyE8DxY)). |
 | **Media Items** | $\mathbf{15}$ total items: $\mathbf{9}$ Images and $\mathbf{6}$ Audios (a new set of stimuli). |
 | **Detection Questions** | For each item: |
-| | 1. How aware are you of the context? (Likert scale) |
+| | 1. How aware are you of the context? |
 | | 2. Do you think the item is a deepfake? ($\mathbf{Binary}$) |
 | | 3. Give a brief reason for what gave it away (qualitative text response). |
 
