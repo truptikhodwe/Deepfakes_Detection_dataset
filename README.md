@@ -46,4 +46,4 @@ Scores in both Phase I and Phase II were calculated based on the correctness of 
 | **Correct Response** | Participant's binary answer matched the Ground Truth (Real/Deepfake). | $\mathbf{1}$ |
 | **Incorrect Response** | Participant's binary answer failed to match the Ground Truth. | $\mathbf{0}$ |
 
-The total score for each participant is the sum of these correctness scores across all media items in that form ($\mathbf{\text{out of } 10}$ in Phase I, and $\mathbf{\text{out of } 15}$ in Phase II). In the Baseline Form (Phase 1), Name, age, gender, Email Id were also asked, but have been removed due to privacy concerns.
+The total score for each participant is the sum of these correctness scores across all media items in that form ($\mathbf{\text{out of } 10}$ in Phase I, and $\mathbf{\text{out of } 15}$ in Phase II).
